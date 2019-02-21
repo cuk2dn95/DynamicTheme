@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme1">giao dien 1</string>
+    <string name="theme2">giao dien 2</string>
+    <string name="en">tieng anh</string>
+    <string name="vi">tieng viet</string>
+</resources>

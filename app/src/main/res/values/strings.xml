@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DynamicTheme</string>
+    <string name="theme1">theme 1</string>
+    <string name="theme2">theme 2</string>
+    <string name="en">english</string>
+    <string name="vi">vietnamese</string>
+</resources>
